@@ -6,13 +6,13 @@ It introduces **gang hideouts** — private interiors that can only be accessed 
 
 ## Features
 
-- 🔒 **Gang-only access** to hideouts using `aquel-gangs` integration  
+- 🔒 **Gang-only access** to hideouts using [`aquel-gangs`](https://github.com/Aquel32/aquel-gangs) integration  
 - 🏠 **Fully functional interiors** including:
   - **Stash** (storage chest)
   - **Wardrobe** (outfit change system)
 - 🛠️ Customizable: easily change interiors or add new functionalities
 - 🗃️ Data is stored database
-- 🎯 **Target-based interactions** via `qb-target`
-- **Hideout purchasing using cryptocurrency** via [`aquel-crypto`](https://github.com/Aquel32/aquel-gangs)
+- 🎯 **Target-based interactions** via [`qb-target`](https://github.com/qbcore-framework/qb-target)
+- **Hideout purchasing using cryptocurrency** via [`aquel-crypto`](https://github.com/Aquel32/aquel-crypto)
 
 ---
